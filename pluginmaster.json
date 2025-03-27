@@ -33,5 +33,26 @@
       "TestingAssemblyVersion": "7.1.5.62",
       "Changelog": "",
       "DownloadCount": 114514
-    }
+    },
+    {
+        "Author": "croizat",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "Description": "Now for more than crafting!",
+        "Tags": [],
+        "InternalName": "SomethingNeedDoing",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "DownloadCount": 393185,
+        "LastUpdate": 1743086963165,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/latest.zip",
+        "AssemblyVersion": "1.77",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": "11",
+        "Changelog": "",
+        "TestingAssemblyVersion": "1.70",
+        "DownloadLinkTesting": "https://puni.sh/api/plugins/download/25/SomethingNeedDoing/versions/testing.zip",
+        "TestingDalamudApiLevel": "11",
+        "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png"
+      }
 ]
